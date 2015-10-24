@@ -1,7 +1,7 @@
 # AppStore
 Simulation of a simple AppStore in Java
 
-::The app store allows anyone to browse the list of all apps, grouped in separate categories. It also runs a simple algorithm to display apps ranked by Top Free, Top Paid & Most Recent.
+::The app store allows anyone to browse the list of all apps, grouped in separate categories. It also runs a simple algorithm to display apps ranked by Top Free, Top Paid & Most Recent.\n
 ::Users need to have an account to download apps from the app store. Only users with valid accounts can login into the app store & then download apps.
 ::Users can give star-ratings to the apps on a scale of 1-5. However, they can only rate the apps that they have downloaded and they can rate an app only once.
 ::Users can further register themselves as developers and upload new apps to the app store. As developers, they can decide to either keep their app free or charge some amount of money for it to download by making it a paid app.
